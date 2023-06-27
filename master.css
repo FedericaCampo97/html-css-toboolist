@@ -1,0 +1,45 @@
+#logo{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align: 10px;
+}
+main{
+    margin: 0 auto;
+    width: 1200px;
+    margin-top: 60px;
+}
+.button1{
+    border-radius: 4px;
+    background-color: rgb(20, 170, 245);
+    border: 0px;
+    color: white;
+    padding: 5px 10px;
+}
+.btn{
+    border-radius: 10px;
+    border: 0px;
+    color: white;
+    padding: 5px 10px;
+    font-size: 10px;
+}
+.color_blue{
+    background-color: rgb(20, 170, 245);
+}
+.spunta{
+    color: rgb(20, 170, 245);
+}
+.color_violet{
+    background-color: rgb(171, 93, 230);
+}
+.x{
+    color: red;
+}
+.color_aqua{
+    background-color: rgb(44, 198, 171) ;
+}
+.color_orange{
+    background-color: rgb(255, 155, 0);
+}
+.color_pink{
+    background-color: rgb(236, 74, 157);
+}
